@@ -1,0 +1,16 @@
+# Site settings
+title: PeopleNXT
+header-img: img/home-bg.jpg
+email: raymondhannes@gmail.com
+description: "The community for strategic HR managers"
+baseurl: ""
+url: "rjh247.github.io"
+
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+timezone: Europe/Amsterdam
